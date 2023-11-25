@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Casa (Habitacion personaje)","order":1,"parentId":0,"scrollX":579,"scrollY":371},
+{"id":2,"expanded":false,"name":"Casa (Primer Piso)","order":2,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":false,"name":"Casa (Segundo Piso)","order":3,"parentId":1,"scrollX":579,"scrollY":371},
+{"id":4,"expanded":false,"name":"Escuela","order":5,"parentId":0,"scrollX":1142,"scrollY":1610},
+{"id":5,"expanded":false,"name":"Ciudad Prota","order":4,"parentId":0,"scrollX":1192,"scrollY":1434}
+]

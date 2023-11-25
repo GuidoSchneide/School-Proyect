@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"battlerName":"Prota","characterIndex":0,"characterName":"Prota","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Prota","traits":[],"initialLevel":1,"maxLevel":99,"name":"Carlos","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Prota_Mujer","characterIndex":0,"characterName":"Prota_Mujer","classId":2,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"Prota_Mujer","traits":[],"initialLevel":1,"maxLevel":99,"name":"Carla","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Hermana_Prota","characterIndex":0,"characterName":"Hermana_Prota","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"Hermana_Prota","traits":[],"initialLevel":1,"maxLevel":99,"name":"Carla","nickname":"Carlita","note":"","profile":""},
+{"id":4,"battlerName":"Papa_Prota","characterIndex":0,"characterName":"Papa_Prota","classId":4,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"Papa_Prota","traits":[],"initialLevel":1,"maxLevel":99,"name":"Fernando","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Mama_Prota","characterIndex":0,"characterName":"Mama_Prota","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Mama_Prota","traits":[],"initialLevel":1,"maxLevel":99,"name":"Clara","nickname":"Clarita","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
